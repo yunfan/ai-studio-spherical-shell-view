@@ -1,0 +1,6 @@
+{
+  "name": "3D Data Sphere Editor",
+  "description": "A single-page application featuring a rotating 3D spherical shell made of image panels and a central core. Users can select and replace the images on individual panels or the core via a sidebar editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
